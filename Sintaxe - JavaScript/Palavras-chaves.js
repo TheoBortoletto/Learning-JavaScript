@@ -12,4 +12,9 @@ let x, y;
 x = 5 + 6;
 y = x * 10;
 
+/*A palavra-chave 'var' também diz ao navegador 
+para criar variáveis:*/
+
+
+
 
