@@ -28,4 +28,3 @@ console.log("Valor de val1:", val1);
 console.log("Valor de val2:", val2);
 console.log("Valor de val3 (val1 + val2):", val3);
 
-
