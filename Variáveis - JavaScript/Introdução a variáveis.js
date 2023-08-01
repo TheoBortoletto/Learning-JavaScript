@@ -68,4 +68,29 @@ console.log("Valor de price1:", price1)
 console.log("Valor de price2:", price2)
 console.log("Valor de total:", total)
 
+/*EXEMPLO EXPLICADO: 
+
+As duas variáveis 'price1​' ​e 'price2' são declaradas 
+com a palavra-chave const.
+
+Estes são valores constantes e não podem ser alterados.
+
+A variável 'total' é declarada com a palavra-chave let.
+
+O valor total pode ser alterado.*/
+
+
+/*QUANDO USAR 'var', 'let', OU 'const':
+
+1. Sempre declare variáveis
+
+2. Sempre use constse o valor não deve ser alterado
+
+3. Sempre use constse o tipo não deve ser alterado (Arrays e Objetos)
+
+4. Só use letse não puder usarconst
+
+5. Use apenas varse você DEVE oferecer suporte a navegadores antigos.
+*/
+
 
