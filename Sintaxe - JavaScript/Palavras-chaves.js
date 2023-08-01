@@ -15,6 +15,11 @@ y = x * 10;
 /*A palavra-chave 'var' também diz ao navegador 
 para criar variáveis:*/
 
+var a, b;
+a = 8 + 10;
+b = a * 17;
 
+console.log("Valor de x:", x, "e valor de y:", y)
+console.log("Valor de a:", a, "e valor de b:", b)
 
 
