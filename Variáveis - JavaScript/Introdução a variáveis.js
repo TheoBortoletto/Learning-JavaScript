@@ -50,3 +50,22 @@ console.log("Valores de k:", k);
 
 console.log("\nDeclarando variáveis usando 'const':\n")
 
+const val1 = 12;
+const val2 = 2;
+const val3 = val1 + val2;
+
+console.log("Valor de val1:", val1)
+console.log("Valor de val2:", val2)
+console.log("Valor de val3:", val3)
+
+console.log("\nExemplo misto:\n")
+
+const price1 = 5;
+const price2 = 6;
+let total = price1 + price2;
+
+console.log("Valor de price1:", price1)
+console.log("Valor de price2:", price2)
+console.log("Valor de total:", total)
+
+
