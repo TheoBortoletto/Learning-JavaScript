@@ -10,4 +10,5 @@ console.log("PI é igual a:", PI)
 /*FORMA INCORRETA:
 
 const PI;
-PI = 3.14159265359; */
+PI = 3.14159265359;*/
+
