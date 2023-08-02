@@ -38,3 +38,4 @@ console.log("Variável y fora de um bloco (escopo global):", y, "\n")
 }
 console.log("Variável y após ser redeclarada no bloco:", y, "\n")
 //* Aqui o y é igual a 10
+
