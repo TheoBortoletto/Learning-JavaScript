@@ -12,3 +12,14 @@ console.log("PI é igual a:", PI)
 const PI;
 PI = 3.14159265359;*/
 
+/*QUANDO USAR O 'const':
+
+Sempre declare uma variável com 'const' quando 
+souber que o valor não deve ser alterado.
+
+Use 'const' quando você declarar:
+
+- Uma nova matriz
+- Um novo objeto
+- Uma nova função
+- Um novo RegExp*/
