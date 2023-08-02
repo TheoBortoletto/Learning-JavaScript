@@ -27,6 +27,7 @@ variável no mesmo bloco:*/
 // }
 
 console.log("\n\tRedeclarar variável 'let' em outro bloco:\n")
+
 /*Redeclarar uma variável com 'let', em outro bloco, é permitido:*/
 
 let y = 2;   //* Permitido
@@ -38,5 +39,5 @@ console.log("Variável y fora do bloco:", y)
 
 {
     let y = 4;    //* Permitido
-    console.log("Variável y em outro bloco:", sy)
+    console.log("Variável y em outro bloco:", y)
 }
