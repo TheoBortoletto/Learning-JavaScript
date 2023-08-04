@@ -9,7 +9,8 @@ x += 5;
 
 console.log("Valor de x com a atribuição feita:", x);
 
-/*OUTROS EXEMPLOS:
+/*
+OUTROS EXEMPLOS:
 
 Operator:	Example:    Same As:
 
@@ -19,4 +20,5 @@ Operator:	Example:    Same As:
 *=	        x *= y	    x = x * y
 /=	        x /= y	    x = x / y
 %=	        x %= y	    x = x % y
-**=	        x **= y	    x = x ** y*/
+**=	        x **= y	    x = x ** y
+*/
