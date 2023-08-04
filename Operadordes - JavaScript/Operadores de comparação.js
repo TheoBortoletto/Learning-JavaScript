@@ -4,6 +4,7 @@ console.log("\n\tOperadores de comparação:\n");
 SÃO ELES:
 
 Operator	Description
+
 ==	        equal to
 ===	        equal value and equal type
 !=	        not equal
