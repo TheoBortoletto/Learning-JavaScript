@@ -21,4 +21,4 @@ console.log("Valor de sum:", sum);
 let c = 2;
 let exp = (100 + 50) * c;
 
-console.log("Valor de exp:", exp);
+console.log("Valor de exp:", exp);;
