@@ -8,4 +8,4 @@ let z = x + y;
 
 console.log("Valor da variável x:", x);
 console.log("Valor da variável y:", y);
-console.log("Valor da variável z:", z)
+console.log("Valor da variável z:", z);
